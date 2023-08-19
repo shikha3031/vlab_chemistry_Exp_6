@@ -4,7 +4,7 @@
 <b>Discipline | <b> Chemistry
 :--|:--|
 <b> Lab | <b> Chemistry Lab
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Experiment|     <b> Exp No.6 Knetics of iodide-hydrogen peroxide clock reaction
 
 ### About the Experiment 
 
@@ -20,5 +20,5 @@ Fill a brief description of this experiment here
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | . | . | . | . | .
+1 | Shikha Gupta | Student | Mathematics & Computer Applications | Bundelkhand University,Jhansi | shikhabhu099@gmail.com
 2 | . | . | . | . | .
