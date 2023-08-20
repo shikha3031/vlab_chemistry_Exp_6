@@ -20,5 +20,5 @@ Fill a brief description of this experiment here
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | Shikha Gupta | Student | Mathematics & Computer Applications | Bundelkhand University,Jhansi | shikhabhu099@gmail.com
+1 | Shikha Gupta | Student | Institute of Computer Science and information Technology | Bundelkhand University,Jhansi | shikhabhu099@gmail.com
 2 | . | . | . | . | .
